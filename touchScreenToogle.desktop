@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=TouchScreeToogle
+Exec=/usr/bin/touchScreenToogle.sh
+Terminal=false
+Categories=Settings;HardwareSettings
+Type=Application
+Icon=/usr/share/icons/touchScreenIcon.png
