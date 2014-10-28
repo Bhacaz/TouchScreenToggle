@@ -16,3 +16,5 @@ Dans le répertoire, exécuté les commandes:
 
     $ sudo chmod +x setup.sh
     $ sudo ./setup.sh
+##Explication
+https://bhacaz.com/blog/?p=46
