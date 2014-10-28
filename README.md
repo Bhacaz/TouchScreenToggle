@@ -2,7 +2,7 @@ TouchScreenToggle
 =================
 
 ##Description##
-Permet de faire tourner l'affichage de l'écran et la réaction tactile.
+Permet de faire d'arrêter la reconnaissance tactile de l'écran sans affecter le stylet. Très utile pour la prise de note (exemple : avec xounal).
 
 ##Testé sur##
 Lenovo ThinkPad Helix
