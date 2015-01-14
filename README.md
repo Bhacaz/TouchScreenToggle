@@ -11,6 +11,10 @@ Ubuntu Gnome 14.10
 
 Gnome 3.14
 
+Linux Mint 17.1
+
+Cinnamon
+
 ##Installation##
 Dans le répertoire, exécuté les commandes:
 
